@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2300092530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99b67df163a6556e90340df4a93f1dae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9606d8980d355f6cd7ac3aa7c63f55cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonSciFiCity/AssetBundlePrefabs/Sidewalk_side.prefab
+Dependencies: []

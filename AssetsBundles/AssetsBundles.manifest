@@ -1,0 +1,233 @@
+ManifestFileVersion: 0
+CRC: 453035112
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bld_bg_lrg_1
+      Dependencies: {}
+    Info_1:
+      Name: bld_bg_lrg_2
+      Dependencies: {}
+    Info_2:
+      Name: bld_bg_lrg_3
+      Dependencies: {}
+    Info_3:
+      Name: bld_bg_med_1
+      Dependencies: {}
+    Info_4:
+      Name: bld_bg_med_4
+      Dependencies: {}
+    Info_5:
+      Name: bld_bg_med_5
+      Dependencies: {}
+    Info_6:
+      Name: bld_bg_small_1
+      Dependencies: {}
+    Info_7:
+      Name: bld_bg_small_2
+      Dependencies: {}
+    Info_8:
+      Name: bld_bg_small_4
+      Dependencies: {}
+    Info_9:
+      Name: wall
+      Dependencies: {}
+    Info_10:
+      Name: wall_tower
+      Dependencies: {}
+    Info_11:
+      Name: advertisement_pillar
+      Dependencies: {}
+    Info_12:
+      Name: streetlight
+      Dependencies: {}
+    Info_13:
+      Name: car
+      Dependencies: {}
+    Info_14:
+      Name: bank
+      Dependencies: {}
+    Info_15:
+      Name: shop_1
+      Dependencies: {}
+    Info_16:
+      Name: foodshop
+      Dependencies: {}
+    Info_17:
+      Name: bld_large_1
+      Dependencies: {}
+    Info_18:
+      Name: bld_large_2
+      Dependencies: {}
+    Info_19:
+      Name: bld_large_3
+      Dependencies: {}
+    Info_20:
+      Name: bld_large_4
+      Dependencies: {}
+    Info_21:
+      Name: bld_part_large_1
+      Dependencies: {}
+    Info_22:
+      Name: bld_part_large_2
+      Dependencies: {}
+    Info_23:
+      Name: bld_part_door_1
+      Dependencies: {}
+    Info_24:
+      Name: bld_part_door_2
+      Dependencies: {}
+    Info_25:
+      Name: bld_part_corner_
+      Dependencies: {}
+    Info_26:
+      Name: bld_part_corner_2
+      Dependencies: {}
+    Info_27:
+      Name: bld_part_corner_3
+      Dependencies: {}
+    Info_28:
+      Name: bld_part_door_3
+      Dependencies: {}
+    Info_29:
+      Name: bld_part_door_4
+      Dependencies: {}
+    Info_30:
+      Name: bld_part_wall_1
+      Dependencies: {}
+    Info_31:
+      Name: bld_part_window_1
+      Dependencies: {}
+    Info_32:
+      Name: bld_part_power
+      Dependencies: {}
+    Info_33:
+      Name: tree
+      Dependencies: {}
+    Info_34:
+      Name: sidewalk_side
+      Dependencies: {}
+    Info_35:
+      Name: sidewalk
+      Dependencies: {}
+    Info_36:
+      Name: sidewalk_corner_2
+      Dependencies: {}
+    Info_37:
+      Name: sidewalk_corner_1
+      Dependencies: {}
+    Info_38:
+      Name: hedge
+      Dependencies: {}
+    Info_39:
+      Name: ground
+      Dependencies: {}
+    Info_40:
+      Name: cube
+      Dependencies: {}
+    Info_41:
+      Name: grass
+      Dependencies: {}
+    Info_42:
+      Name: grafity_wall
+      Dependencies: {}
+    Info_43:
+      Name: graffity_ground
+      Dependencies: {}
+    Info_44:
+      Name: scene
+      Dependencies:
+        Dependency_0: bld_bg_lrg_1
+        Dependency_1: bld_bg_lrg_2
+        Dependency_2: bld_bg_lrg_3
+        Dependency_3: bld_bg_med_1
+        Dependency_4: bld_bg_med_4
+        Dependency_5: bld_bg_med_5
+        Dependency_6: bld_bg_small_1
+        Dependency_7: bld_bg_small_2
+        Dependency_8: bld_bg_small_4
+        Dependency_9: wall
+        Dependency_10: wall_tower
+        Dependency_11: advertisement_pillar
+        Dependency_12: streetlight
+        Dependency_13: car
+        Dependency_14: bank
+        Dependency_15: shop_1
+        Dependency_16: foodshop
+        Dependency_17: bld_large_1
+        Dependency_18: bld_large_2
+        Dependency_19: bld_large_3
+        Dependency_20: bld_large_4
+        Dependency_21: bld_part_large_1
+        Dependency_22: bld_part_large_2
+        Dependency_23: bld_part_door_1
+        Dependency_24: bld_part_door_2
+        Dependency_25: bld_part_corner_
+        Dependency_26: bld_part_corner_2
+        Dependency_27: bld_part_corner_3
+        Dependency_28: bld_part_door_3
+        Dependency_29: bld_part_door_4
+        Dependency_30: bld_part_wall_1
+        Dependency_31: bld_part_window_1
+        Dependency_32: bld_part_power
+        Dependency_33: tree
+        Dependency_34: sidewalk_side
+        Dependency_35: sidewalk
+        Dependency_36: sidewalk_corner_2
+        Dependency_37: sidewalk_corner_1
+        Dependency_38: hedge
+        Dependency_39: ground
+        Dependency_40: cube
+        Dependency_41: grass
+        Dependency_42: grafity_wall
+        Dependency_43: graffity_ground
+    Info_45:
+      Name: complete_scene
+      Dependencies:
+        Dependency_0: bld_bg_lrg_1
+        Dependency_1: bld_bg_lrg_2
+        Dependency_2: bld_bg_lrg_3
+        Dependency_3: bld_bg_med_1
+        Dependency_4: bld_bg_med_4
+        Dependency_5: bld_bg_med_5
+        Dependency_6: bld_bg_small_1
+        Dependency_7: bld_bg_small_2
+        Dependency_8: bld_bg_small_4
+        Dependency_9: wall
+        Dependency_10: wall_tower
+        Dependency_11: advertisement_pillar
+        Dependency_12: streetlight
+        Dependency_13: car
+        Dependency_14: bank
+        Dependency_15: shop_1
+        Dependency_16: foodshop
+        Dependency_17: bld_large_1
+        Dependency_18: bld_large_2
+        Dependency_19: bld_large_3
+        Dependency_20: bld_large_4
+        Dependency_21: bld_part_large_1
+        Dependency_22: bld_part_large_2
+        Dependency_23: bld_part_door_1
+        Dependency_24: bld_part_door_2
+        Dependency_25: bld_part_corner_
+        Dependency_26: bld_part_corner_2
+        Dependency_27: bld_part_corner_3
+        Dependency_28: bld_part_door_3
+        Dependency_29: bld_part_door_4
+        Dependency_30: bld_part_wall_1
+        Dependency_31: bld_part_window_1
+        Dependency_32: bld_part_power
+        Dependency_33: tree
+        Dependency_34: sidewalk_side
+        Dependency_35: sidewalk
+        Dependency_36: sidewalk_corner_2
+        Dependency_37: sidewalk_corner_1
+        Dependency_38: hedge
+        Dependency_39: ground
+        Dependency_40: cube
+        Dependency_41: grass
+        Dependency_42: grafity_wall
+        Dependency_43: graffity_ground
+    Info_46:
+      Name: icon/ammo
+      Dependencies: {}

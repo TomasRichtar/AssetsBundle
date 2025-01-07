@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2657243074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d21bb57148c758cc7bdbdce56d0eafb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce1766b020758a9de4f2cbbff91c4f6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonSciFiCity/AssetBundlePrefabs/Bld_part_Corner_03.prefab
+Dependencies: []

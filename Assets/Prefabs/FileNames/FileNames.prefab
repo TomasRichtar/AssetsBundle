@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5712159262446557139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5712159262446557141}
+  - component: {fileID: 5712159262446557138}
+  - component: {fileID: 5712159262446557140}
+  m_Layer: 0
+  m_Name: FileNames
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5712159262446557141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5712159262446557139}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.287301, y: 46.310894, z: -10.489244}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5712159262446557138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5712159262446557139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e355bfcdb2aad0a47b35e8351c936ab7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Names:
+  - advertisement_pillar
+  - bank
+  - bld_bg_lrg_1
+  - bld_bg_lrg_2
+  - bld_bg_lrg_3
+  - bld_bg_med_1
+  - bld_bg_med_4
+  - bld_bg_med_5
+  - bld_bg_small_1
+  - bld_bg_small_2
+  - bld_bg_small_4
+  - bld_large_1
+  - bld_large_2
+  - bld_large_3
+  - bld_large_4
+  - bld_part_corner_
+  - bld_part_corner_2
+  - bld_part_corner_3
+  - bld_part_door_1
+  - bld_part_door_2
+  - bld_part_door_3
+  - bld_part_door_4
+  - bld_part_large_1
+  - bld_part_large_2
+  - bld_part_power
+  - bld_part_wall_1
+  - bld_part_window_1
+  - car
+  - cube
+  - foodshop
+  - graffity_ground
+  - grafity_wall
+  - grass
+  - ground
+  - hedge
+  - shop_1
+  - sidewalk
+  - sidewalk_corner_1
+  - sidewalk_corner_2
+  - sidewalk_side
+  - streetlight
+  - tree
+  - wall
+  - wall_tower
+  AssetBundlesSetUp:
+  - Name: advertisement_pillar
+    Prefab: {fileID: 0}
+  - Name: bank
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_2
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_3
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_4
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_5
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_2
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_4
+    Prefab: {fileID: 0}
+  - Name: bld_large_1
+    Prefab: {fileID: 0}
+  - Name: bld_large_2
+    Prefab: {fileID: 0}
+  - Name: bld_large_3
+    Prefab: {fileID: 0}
+  - Name: bld_large_4
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_3
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_3
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_4
+    Prefab: {fileID: 0}
+  - Name: bld_part_large_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_large_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_power
+    Prefab: {fileID: 0}
+  - Name: bld_part_wall_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_window_1
+    Prefab: {fileID: 0}
+  - Name: car
+    Prefab: {fileID: 0}
+  - Name: cube
+    Prefab: {fileID: 0}
+  - Name: foodshop
+    Prefab: {fileID: 0}
+  - Name: graffity_ground
+    Prefab: {fileID: 0}
+  - Name: grafity_wall
+    Prefab: {fileID: 0}
+  - Name: grass
+    Prefab: {fileID: 0}
+  - Name: ground
+    Prefab: {fileID: 0}
+  - Name: hedge
+    Prefab: {fileID: 0}
+  - Name: shop_1
+    Prefab: {fileID: 0}
+  - Name: sidewalk
+    Prefab: {fileID: 0}
+  - Name: sidewalk_corner_1
+    Prefab: {fileID: 0}
+  - Name: sidewalk_corner_2
+    Prefab: {fileID: 0}
+  - Name: sidewalk_side
+    Prefab: {fileID: 0}
+  - Name: streetlight
+    Prefab: {fileID: 0}
+  - Name: tree
+    Prefab: {fileID: 0}
+  - Name: wall
+    Prefab: {fileID: 0}
+  - Name: wall_tower
+    Prefab: {fileID: 0}
+  AssetBundlesSetUpSaved: []
+--- !u!114 &5712159262446557140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5712159262446557139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b542805b615d2a45848079cffd3fe78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefabs:
+  - Preload: {fileID: 1803432216292569120, guid: 347acc874a2a1ca4a920b4b481716ed5, type: 3}
+    LowPoly: {fileID: 1449773014225912877, guid: bf1c433cdfecca2449032d00d38449f3, type: 3}
+    HighPoly: {fileID: 1890822468713380, guid: 65f76c5f923964045833f09a3f767a16, type: 3}
+  - Preload: {fileID: 7287561658533930505, guid: 44c50f9717af36c4286e9d6970828b83, type: 3}
+    LowPoly: {fileID: 90308538224184446, guid: 42d8e204ead7e0f49ad2a6560647857c, type: 3}
+    HighPoly: {fileID: 1331304823789064, guid: 31dade7a3305059458fd6662c8492e46, type: 3}
+  - Preload: {fileID: 2097063116539663706, guid: 7e587c453d10c644d8e029fdbd4ee5d9, type: 3}
+    LowPoly: {fileID: 1890822468713380, guid: 65f76c5f923964045833f09a3f767a16, type: 3}
+    HighPoly: {fileID: 1716520578374284, guid: 8ad4c6a0a99ada5458178e9156b85b0e, type: 3}
+  - Preload: {fileID: 3998084374868104599, guid: fb2084028e2592b49913c284500de2a7, type: 3}
+    LowPoly: {fileID: 1331304823789064, guid: 31dade7a3305059458fd6662c8492e46, type: 3}
+    HighPoly: {fileID: 1879065352345028, guid: 3c37ed3fc4c8659488e2a193810bb213, type: 3}
+  - Preload: {fileID: 8100269627614397693, guid: eb97203031d816e468b9b4bb846d60e9, type: 3}
+    LowPoly: {fileID: 1716520578374284, guid: 8ad4c6a0a99ada5458178e9156b85b0e, type: 3}
+    HighPoly: {fileID: 1418953355699804, guid: 2b4f4c6dd9003ab49ac2cb68ebc4a3b4, type: 3}
+  - Preload: {fileID: 6738286257891412429, guid: 876c4040fc9a1a24088e4a1e3a40c2b5, type: 3}
+    LowPoly: {fileID: 1879065352345028, guid: 3c37ed3fc4c8659488e2a193810bb213, type: 3}
+    HighPoly: {fileID: 1899916590547110, guid: 049ba413acf1dae40a25c7020b124049, type: 3}
+  - Preload: {fileID: 7290704641284349133, guid: ef2d5262caf0fec47af8423113b3f3df, type: 3}
+    LowPoly: {fileID: 1418953355699804, guid: 2b4f4c6dd9003ab49ac2cb68ebc4a3b4, type: 3}
+    HighPoly: {fileID: 1490544297967454, guid: 1337ff3f0ba67b743a229bd87105578f, type: 3}
+  - Preload: {fileID: 578110271108068938, guid: 010480f727c7de34488204a851148af5, type: 3}
+    LowPoly: {fileID: 1899916590547110, guid: 049ba413acf1dae40a25c7020b124049, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8185290195901813281, guid: 989c350bc37f3504fab8bf9635dc6aac, type: 3}
+    LowPoly: {fileID: 1490544297967454, guid: 1337ff3f0ba67b743a229bd87105578f, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8978612088603100510, guid: b1c25a4fe24ccf448862957a5cbc5002, type: 3}
+    LowPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8090802625613451709, guid: 74387f144a412e4489f02bbc0210ac47, type: 3}
+    LowPoly: {fileID: 1398898131958834, guid: 98be61c6635b7784aa91fcee4f0df5ff, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 1018288046749593141, guid: 440e262c1488277428c9d80368a57212, type: 3}
+    LowPoly: {fileID: 4171698398686839856, guid: a4aefe0e53c688047896e66a9c0b1b46, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 7806761679232944603, guid: da5b3e53a0115d841a856670f8ebcdef, type: 3}
+    LowPoly: {fileID: 4100261207410579511, guid: a63f88643cf400640a526bf30e3aa1d3, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4236973122102796729, guid: a48aa4661ac20a944a7a6c65c53296d3, type: 3}
+    LowPoly: {fileID: 5143625966642903136, guid: 2a4af6238277eed4693546e998a8f364, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 3421550725438324229, guid: 4368e168f10f61e4b910d075f7ca59c3, type: 3}
+    LowPoly: {fileID: 3096805020509570872, guid: 57527933b335acd41863784064c62164, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 2587696303276492630, guid: 335d972e5e5e07c469edd2c896b07949, type: 3}
+    LowPoly: {fileID: 2197490713654702677, guid: 820acf4f27a48834cba3c786e5642979, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 1469454524672772650, guid: d522d1d9e316175478a60e1f0b879be0, type: 3}
+    LowPoly: {fileID: 6323090788422262947, guid: 5e7404302edbfd4409054c4d99f67969, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 2161713320282527774, guid: 59fed14854f823f4e9ee7941a29de963, type: 3}
+    LowPoly: {fileID: 1071701077134365374, guid: ff6e77b9c79ccf148b93f971872faa0a, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4718398359233460695, guid: 37fefb10fa153bd499ed25f227959d92, type: 3}
+    LowPoly: {fileID: 3977181484520363911, guid: 27943b82190eb544e8987104f5c4e66a, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 1276663223192194539, guid: 66ece74e8371e57468a415e934fb96ef, type: 3}
+    LowPoly: {fileID: 4303858455008329796, guid: 211853f54de89254ea3001e3489358f7, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8354882975962589153, guid: 2e2b1a59b7003b249b3a6bedd078c4a1, type: 3}
+    LowPoly: {fileID: 3525156611207199970, guid: eb91f6c6933b09e4fb95688139d40a0e, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8690049124811267265, guid: d8ab20322edc93f4db8c843c67f7ae25, type: 3}
+    LowPoly: {fileID: 4451451556184738028, guid: 7bd880386bacc0e438c7c91ca5faaae3, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 675072991827625835, guid: d2b83af2496917246a66e5ed5fa085a0, type: 3}
+    LowPoly: {fileID: 2412703978416111077, guid: a2bd741c74febda4ebf8c6aa7bb67be2, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 3004236972593780269, guid: 7c20d4c5284e0cb41951e5f41ace45a4, type: 3}
+    LowPoly: {fileID: 4220154656120518101, guid: 9bd48935f828ce2479569a51dccdb71f, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 5696426246870836805, guid: 6edd9d7972d3f6847be76487f207214b, type: 3}
+    LowPoly: {fileID: 1922133560676985985, guid: 7b248fd5eb401e544af81f9093eca0c6, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 2096866918818022942, guid: 2e32c9ffd57f0fd48b549dbea176cbbd, type: 3}
+    LowPoly: {fileID: 1088826567633411469, guid: aa511e4a17eabfe40800fb5392c39bf8, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8014157440736228354, guid: 37bd2ab8d746bb145bcbf111cc75a26f, type: 3}
+    LowPoly: {fileID: 2934462052903292755, guid: 62bbf3c7dcc7f064e9c63f1abbcb6fd5, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 944535524244320721, guid: b74c1599a6fae1a4b8de1eeb6675fc6c, type: 3}
+    LowPoly: {fileID: 4566731122514484362, guid: f19e4b9d90f8b8e408808e9ca92b397c, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 5332678600045321783, guid: d593e7dcd5b23354f8dcf2d87c3cca26, type: 3}
+    LowPoly: {fileID: 3536169598704457972, guid: d92cd1c51cc3f2e49bdeb30612e8a801, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 5630680230296092138, guid: ef53d04857a54a842b7500f4368663ce, type: 3}
+    LowPoly: {fileID: 5933942759866119848, guid: e2364b6ea2f06614f94c2cb8c3fc874d, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 8785354311299825704, guid: 10da6b69822fb6f4faf469f84a344d5a, type: 3}
+    LowPoly: {fileID: 3764882771093750118, guid: 51932949a3233604e871930298bae3d4, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 7027306766743131408, guid: b3f24c2f73781fd4fbeb416bd6cfa0bd, type: 3}
+    LowPoly: {fileID: 7260285698776762046, guid: 27e6b531f4c58104a9c524ec68ea1340, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 3177104765967323809, guid: b93ca440899348647ba6b05aed710ea6, type: 3}
+    LowPoly: {fileID: 2374346116201515024, guid: d2d9fd081d2f6704e9607d04ad4e8772, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 5407109624134002917, guid: 431876b2492032c448590849ecc3b22b, type: 3}
+    LowPoly: {fileID: 77718668474564664, guid: 73be3eddc0819be40be5108e83bb20de, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 2811524582167986837, guid: 7153b6f3b49041e438860eae0c4fe192, type: 3}
+    LowPoly: {fileID: 1962976301679780240, guid: 2c73dce7a8143d740ad2ad657aae4564, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 7295026214395867867, guid: a0462dab49d5a6846bc41bd7c57314b4, type: 3}
+    LowPoly: {fileID: 720322636399177954, guid: 8959c6b0e8835a847aff64b6e1733a84, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4188278522686402579, guid: 6b4a9960fd0df5744bb63dee08930eb8, type: 3}
+    LowPoly: {fileID: 1970967028787676953, guid: a14b7fee91f39664ca4fd6021356237d, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4188278522686402579, guid: 6b4a9960fd0df5744bb63dee08930eb8, type: 3}
+    LowPoly: {fileID: 1516825758707568414, guid: f5484ca2773037a449653aab37b1de74, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4188278522686402579, guid: 6b4a9960fd0df5744bb63dee08930eb8, type: 3}
+    LowPoly: {fileID: 2667301578346160372, guid: f9e585a1b6b74df479cf2660840cf22a, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 4188278522686402579, guid: 6b4a9960fd0df5744bb63dee08930eb8, type: 3}
+    LowPoly: {fileID: 8644595546403554124, guid: 8484ad53ab719144d90a64d8e28a5db1, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 581008486111449384, guid: 30a259e383d9de646a9808d33c4554ad, type: 3}
+    LowPoly: {fileID: 5709465605109859063, guid: 6816b16fba0f311448d4a045d6037041, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 1178979087968177113, guid: c34ae5163ff2fba45861096ab07ec9c9, type: 3}
+    LowPoly: {fileID: 9036334840081971634, guid: 0edc7be81bdc6144f89fdf52c375d211, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 2156819058229905967, guid: c2157a01c2106234697a05ee2cc94138, type: 3}
+    LowPoly: {fileID: 2442996287293491893, guid: 2914a2cf12a655f45ad554007480e415, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}
+  - Preload: {fileID: 7006343216755449812, guid: 6914d800ca09f16488646bc90b28bcb2, type: 3}
+    LowPoly: {fileID: 137595916990859181, guid: dd891921c118f234f8ffa9da1ef94c77, type: 3}
+    HighPoly: {fileID: 1914798128553448, guid: 346d59f0a37939843934a260b13f9d2e, type: 3}

@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 1152422681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36d1efae6651a38e9d5edd05ef9653a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0746057aa82ec9a2c6b5dff2fff2c51b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 319d2fe34a804e245819465c9505ea59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad1602d3545e3d0428af84aa450db9ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96ec3d7ed3fa9bb46b4175474d24cb40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a200b19ca1a9685429ed7e043c28e904, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3d1aae3f39403f449f7b695f334a5bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3051d1b93af2e444fa3b3c67e02a8d9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b542805b615d2a45848079cffd3fe78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e355bfcdb2aad0a47b35e8351c936ab7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9384ab8608cdc3d479fe89cd51eed48f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2887590abdd5444d96c9a01365c9e77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 418e42c7d0405cc48a7b83f63ea53bb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Scene/SampleScene.unity
+Dependencies:
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/advertisement_pillar
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bank
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_lrg_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_lrg_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_lrg_3
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_med_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_med_4
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_med_5
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_small_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_small_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_bg_small_4
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_large_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_large_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_large_3
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_large_4
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_corner_
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_corner_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_corner_3
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_door_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_door_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_door_3
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_door_4
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_large_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_large_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_power
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_wall_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/bld_part_window_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/car
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/cube
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/foodshop
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/graffity_ground
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/grafity_wall
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/grass
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/ground
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/hedge
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/shop_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/sidewalk
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/sidewalk_corner_1
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/sidewalk_corner_2
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/sidewalk_side
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/streetlight
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/tree
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/wall
+- D:/UnityProjects/AssetBundles/Assets/../AssetsBundles/wall_tower

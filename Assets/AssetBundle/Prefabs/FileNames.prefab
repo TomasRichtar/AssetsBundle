@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6711197996887002214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6711197996887002208}
+  - component: {fileID: 6711197996887002215}
+  - component: {fileID: 6711197996887002209}
+  m_Layer: 0
+  m_Name: FileNames
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6711197996887002208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711197996887002214}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.287301, y: 46.310894, z: -10.489244}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6711197996887002215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711197996887002214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e355bfcdb2aad0a47b35e8351c936ab7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  phpURL: https://tastyair.cz/AssetBundleCity/
+  ftpdir: /public_html/www/AssetBundleCity
+  Names: []
+  AssetBundlesSetUp:
+  - Name: advertisement_pillar
+    Prefab: {fileID: 0}
+  - Name: bank
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_2
+    Prefab: {fileID: 0}
+  - Name: bld_bg_lrg_3
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_4
+    Prefab: {fileID: 0}
+  - Name: bld_bg_med_5
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_1
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_2
+    Prefab: {fileID: 0}
+  - Name: bld_bg_small_4
+    Prefab: {fileID: 0}
+  - Name: bld_large_1
+    Prefab: {fileID: 0}
+  - Name: bld_large_2
+    Prefab: {fileID: 0}
+  - Name: bld_large_3
+    Prefab: {fileID: 0}
+  - Name: bld_large_4
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_corner_3
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_3
+    Prefab: {fileID: 0}
+  - Name: bld_part_door_4
+    Prefab: {fileID: 0}
+  - Name: bld_part_large_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_large_2
+    Prefab: {fileID: 0}
+  - Name: bld_part_power
+    Prefab: {fileID: 0}
+  - Name: bld_part_wall_1
+    Prefab: {fileID: 0}
+  - Name: bld_part_window_1
+    Prefab: {fileID: 0}
+  - Name: car
+    Prefab: {fileID: 0}
+  - Name: complete_scene
+    Prefab: {fileID: 0}
+  - Name: cube
+    Prefab: {fileID: 0}
+  - Name: foodshop
+    Prefab: {fileID: 0}
+  - Name: graffity_ground
+    Prefab: {fileID: 0}
+  - Name: grafity_wall
+    Prefab: {fileID: 0}
+  - Name: grass
+    Prefab: {fileID: 0}
+  - Name: ground
+    Prefab: {fileID: 0}
+  - Name: hedge
+    Prefab: {fileID: 0}
+  - Name: scene
+    Prefab: {fileID: 0}
+  - Name: shop_1
+    Prefab: {fileID: 0}
+  - Name: sidewalk
+    Prefab: {fileID: 0}
+  - Name: sidewalk_corner_1
+    Prefab: {fileID: 0}
+  - Name: sidewalk_corner_2
+    Prefab: {fileID: 0}
+  - Name: sidewalk_side
+    Prefab: {fileID: 0}
+  - Name: streetlight
+    Prefab: {fileID: 0}
+  - Name: tree
+    Prefab: {fileID: 0}
+  - Name: wall
+    Prefab: {fileID: 0}
+  - Name: wall_tower
+    Prefab: {fileID: 0}
+  AssetBundlesSetUpSaved: []
+--- !u!114 &6711197996887002209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711197996887002214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b542805b615d2a45848079cffd3fe78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefabs: []
